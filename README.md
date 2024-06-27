@@ -13,18 +13,18 @@ descargar de la siguiente página web oficial:
 Se recomienda utilizar un entorno virtual para la ejecución de la aplicación.
 Para ello, se deben de ejecutar los siguientes comandos:
 
-```bash python3.12 -m venv .venv source .venv/bin/activate```
+```python3.12 -m venv .venv source .venv/bin/activate```
 
 Las librerías necesarias pueden ser encontradas en ```requirements.txt```. Para
 instalarlas, se debe de ejecutar el siguiente comando:
 
-```bash pip install -r requirements.txt```
+```pip install -r requirements.txt```
 
 ### Ejecución de la aplicación
 
 Para ejecutar la aplicación, se debe de ejecutar el siguiente comando:
 
-```bash python main.py```
+```python main.py```
 
 ### Uso
 
@@ -50,7 +50,7 @@ medallas. Se pueden descargar ambos de las siguientes páginas web oficiales:
 Para ejecutar la aplicación de medallas, en el directorio /medallas se debe
 ejecutar el comando:
 
-```bash flutter run```
+```flutter run```
 
 y seleccionar la opción Chrome.
 
